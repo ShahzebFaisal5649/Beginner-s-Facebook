@@ -1,4 +1,3 @@
-Absolutely, let's refine and enhance the README to make it more informative, organized, and visually appealing.
 
 ## Beginner's Facebook
 
